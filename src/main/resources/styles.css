@@ -1,0 +1,6 @@
+Button {
+    -fx-font-family: "Arial";
+    -fx-font-size: 20;
+    -fx-min-width: 80px;
+    -fx-min-height: 50px;
+}
